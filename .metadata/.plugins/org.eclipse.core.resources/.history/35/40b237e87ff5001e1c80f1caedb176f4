@@ -1,0 +1,15 @@
+package TrainingJava;
+
+public class Students {
+	
+	public Students() {
+		System.out.println("Hi checking constructors");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Students std = new Students();
+
+	}
+
+}

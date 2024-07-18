@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+/home/kyalo/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+2580741105.index
+1864434883.index
+3623811506.index
+3816933227.index
+1865797976.index
+3699617814.index
